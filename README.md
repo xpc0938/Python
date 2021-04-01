@@ -36,3 +36,5 @@
 
 [解密思路](https://blog.csdn.net/Bleen1009/article/details/44671771)
 
+[破解思路](http://www.gphqgb.com/article401.html)
+
