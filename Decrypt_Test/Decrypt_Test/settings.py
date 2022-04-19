@@ -25,7 +25,8 @@ SECRET_KEY = '*ohz(fa^x3(78au_6abuiyn03q%bd@l_rs1bl^tgm2bel5ox)9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+#ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["192.168.108.140",'192.168.108.2','192.168.108.140.1']
 
 
 # Application definition
